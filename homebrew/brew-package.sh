@@ -31,8 +31,6 @@ brew upgrade
 # is being installed first
 #  ---------------------------------------------------------------------------
 brew cask install java ## Java 10
-brew cask install java8 
-brew cask install java9
 
 
 #  ---------------------------------------------------------------------------
