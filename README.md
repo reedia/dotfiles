@@ -4,8 +4,8 @@
     </a>
 </p>
 
-<h3 align="center">Introducing Dotfiles</h3>
+<h3 align="center">Introducing Dotfiles - v2.0.2.440</h3>
 
 <p align="center">A set of Mac OS X configuration files.</p>
 <p align="center">Simply designed to fit your shell life.</p>
-<p align="center"><a href="https://github.com/sebastienrousseau/dotfiles/releases/latest">Download Dotfiles</a></p>
+<p align="center"><a href="https://github.com/sebastienrousseau/dotfiles/archive/refs/tags/build-master-2021-04-22-440.zip">Download Dotfiles</a></p>
